@@ -1,0 +1,20 @@
+/*
+Theme Name: WP TEAMBuktoo Bootstrap
+Theme URI: http://TEAMBuktoo.com/
+Description: PHP Full Stack Developer using TEAMBuktoo name as his software company name.
+Author: Hadeem Jahate
+Author URI: http://TEAMBuktoo.com/
+Version: 1.0
+Tags: responsive, TEAMBuktoo, bootstrap, OO PHP5
+
+License: Attribution-Hadeem
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple TEAMBuktoo theme was built using the Bootstrap by Hadeem Jahate a software Full Stack PHP Developer http://twitter.github.com/xadim
+*/
+
+
+@import url('css/bootstrap.min.css'); 
+@import url('css/font-awesome.min.css'); 
+@import url('css/prettyPhoto.css'); 
+@import url('css/main.css'); 
